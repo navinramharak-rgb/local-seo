@@ -1,0 +1,9 @@
+{
+  "name": "local-seo",
+  "version": "0.1.0",
+  "description": "Get found by people searching in your city. Audits and fixes the Google Business Profile first, because for most local businesses it outranks the website, then the service and area pages, reviews, citations and local schema. Built for trades, clinics, firms, shops and anyone whose customers type 'near me'.",
+  "author": { "name": "Build With Nav" },
+  "homepage": "https://buildwithnav.com",
+  "license": "MIT",
+  "keywords": ["local-seo", "google-business-profile", "gbp", "map-pack", "near-me", "citations", "reviews", "small-business", "service-area"]
+}
