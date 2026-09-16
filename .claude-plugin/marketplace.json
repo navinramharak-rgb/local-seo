@@ -1,0 +1,24 @@
+{
+  "name": "local-seo",
+  "owner": {
+    "name": "Navin Ramharak (Build With Nav)",
+    "url": "https://buildwithnav.com"
+  },
+  "description": "Get found by people searching in your own city. Starts with the Google Business Profile, because for most local businesses it outranks the website.",
+  "version": "1.0.0",
+  "plugins": [
+    {
+      "name": "local-seo",
+      "source": "./",
+      "displayName": "Local SEO",
+      "description": "Fixes your Google Business Profile first, then reviews, service pages, citations and local schema.",
+      "version": "1.0.0",
+      "author": { "name": "Navin Ramharak (Build With Nav)", "url": "https://buildwithnav.com" },
+      "homepage": "https://buildwithnav.com/yeg/fixes",
+      "repository": "https://github.com/navinramharak-rgb/local-seo",
+      "license": "MIT",
+      "keywords": ["local-seo", "google-business-profile", "gbp", "map-pack", "near-me", "citations", "reviews", "small-business", "service-area"],
+      "category": "marketing"
+    }
+  ]
+}
