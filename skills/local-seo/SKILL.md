@@ -176,8 +176,8 @@ Be honest about timing inside the document, not just in conversation. Profile ch
 
 ## Chains with
 
-- **`audit-website`** — run it first when there is a website. This skill assumes the site is not fundamentally broken.
-- **`build-premium-site`** — when the audit says rebuild, build it with the service and area page structure from `references/pages.md` already in place, rather than retrofitting.
+- **`audit-website`**: run it first when there is a website. This skill assumes the site is not fundamentally broken.
+- **`build-premium-site`**: when the audit says rebuild, build it with the service and area page structure from `references/pages.md` already in place, rather than retrofitting.
 
 For technical SEO beyond local (hreflang, crawl budget, international, programmatic pages), use Corey Haines' `seo-audit` skill. It goes much deeper on that axis. This skill deliberately covers what that one does not: the local half.
 

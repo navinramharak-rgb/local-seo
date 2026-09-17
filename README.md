@@ -1,4 +1,4 @@
-<img src="assets/banner.png" alt="Local SEO — Build With Nav" width="100%">
+<img src="assets/banner.png" alt="Local SEO: Build With Nav" width="100%">
 
 <p>
 <img alt="Licence MIT" src="https://img.shields.io/badge/licence-MIT-FF4500?style=flat-square">
@@ -57,9 +57,9 @@ Plus the one thing to do first if you only do one thing. It's nearly always the 
 
 ## Chains with
 
-1. **[Website Audit](https://github.com/navinramharak-rgb/website-audit)** — run this first if you have a website. This skill assumes the site isn't fundamentally broken.
+1. **[Website Audit](https://github.com/navinramharak-rgb/website-audit)**: run this first if you have a website. This skill assumes the site isn't fundamentally broken.
 2. **Local SEO** ← you are here.
-3. **[50k Website Builder](https://github.com/navinramharak-rgb/50k-website-builder)** — when the audit says rebuild, build it with the service and area page structure already in place rather than retrofitting it later.
+3. **[50k Website Builder](https://github.com/navinramharak-rgb/50k-website-builder)**: when the audit says rebuild, build it with the service and area page structure already in place rather than retrofitting it later.
 
 For technical SEO beyond local (hreflang, crawl budget, international, programmatic pages), use [Corey Haines' marketing skills](https://github.com/coreyhaines31/marketingskills). That library is excellent and goes far deeper on that axis. This one deliberately covers what it doesn't: the local half.
 

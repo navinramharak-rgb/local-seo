@@ -17,7 +17,7 @@ Structure:
 - The questions people ask about it
 - One clear way to get in touch, repeated at the bottom
 
-Title tag formula: `[Service] in [City] | [Business]` — under about 60 characters.
+Title tag formula: `[Service] in [City] | [Business]`: under about 60 characters.
 
 ## Area pages
 

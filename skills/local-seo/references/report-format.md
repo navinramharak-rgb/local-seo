@@ -35,14 +35,14 @@ If you find yourself writing new CSS, stop. Fill the tokens, repeat the blocks, 
 
 ## Order
 
-1. **Masthead** — business, current primary category, city, score ring.
-2. **Do this first** — the single highest-leverage action, on its own, above everything. Nearly always the primary category.
-3. **Where you are today** — the five baseline measurements, dated, with the proximity caveat.
-4. **The competition** — the side-by-side table, then three or four gap cards.
-5. **The scorecard** — six areas, scored, with one honest finding each.
+1. **Masthead**: business, current primary category, city, score ring.
+2. **Do this first**: the single highest-value action, on its own, above everything. Nearly always the primary category.
+3. **Where you are today**: the five baseline measurements, dated, with the proximity caveat.
+4. **The competition**: the side-by-side table, then three or four gap cards.
+5. **The scorecard**: six areas, scored, with one honest finding each.
 6. **What I couldn't check.**
-7. **The ninety day plan** — today, this week, this month.
-8. **How you'll know it worked** — the repeat measurement and the tagged profile link.
+7. **The ninety day plan**: today, this week, this month.
+8. **How you'll know it worked**: the repeat measurement and the tagged profile link.
 
 The reason "do this first" sits above the research: an owner reads the top and skims the rest. If the category is wrong, that one change is worth more than the other forty lines combined, and it needs to be impossible to miss.
 
