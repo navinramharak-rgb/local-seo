@@ -26,6 +26,11 @@ Then say: **"I'm not showing up on Google for [what you do] in [your city]"**
 - **Storefront or service area, not both by accident.** If you go to the customer, your address should be hidden. A service-area business showing a home address is a common cause of a suppressed listing.
 - **It builds the review machine, not just a nag.** When to ask, the exact text to send, how to reply to the good ones and the bad ones, and a cadence that survives a busy week.
 - **It will not build you a review gate.** Screening people before they reach Google breaks Google's policy and can cost you the listing. It says so and gives you the version that works.
+- **It tears down the three businesses actually beating you.** Not the one that annoys you, the three in the map pack. Same fourteen fields pulled for all of them and for you, side by side, then the three or four gaps that are a decision rather than a budget. Someone can argue with advice. Nobody argues with "they're in this category and you're not."
+- **It scores you out of 100 and shows the working.** Six areas, weighted by what actually moves the map. Most businesses land in the 30s and 40s the first time, which is the point.
+- **It takes the before photo.** Five measurements written down and dated, so in thirty days there's something to compare against instead of an argument about feelings.
+- **It tells you the truth about rankings.** There's no single position in the map. It changes with where the searcher is standing. Every position it reports says where it was searched from.
+- **You get a report, not a chat.** One HTML file: the one thing to do first, the baseline, the competitor table, the score, and a ninety day plan. Opens offline and prints.
 - **It never invents a number.** No made-up rankings, search volumes or competitor review counts. It looks it up or tells you it couldn't check.
 
 ---

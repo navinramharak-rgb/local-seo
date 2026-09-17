@@ -15,7 +15,9 @@ For a plumber, a clinic, a law firm, a car wash or a restaurant, this is the ord
 
 Almost everyone does this list backwards, starting with the website and never touching the profile.
 
-The person running this is a business owner. No jargon without a plain-English translation attached. **Never invent a ranking, a search volume, a review count or a competitor's numbers.** Look it up or say you could not.
+The person running this is a business owner. No jargon without a plain-English translation attached.
+
+**The rule that matters most: every number in the output came from something you actually looked at.** Review counts, photo counts, ranking positions, competitor figures. You searched for it and read it, or the report says "couldn't check". An invented number is worse than a missing one, because they will act on it. And never report a ranking position without saying where the search was run from, because map results change with the searcher's location.
 
 ---
 
@@ -53,7 +55,19 @@ The most common finding, by a distance: **the primary category is wrong or gener
 
 ---
 
-## Step 3. Reviews
+## Step 3. Tear down the three businesses beating them
+
+Read `references/competitors.md`. This is the step that makes the difference between a list of best practices and something the owner can act on this afternoon.
+
+Search the money keyword the way a customer types it, take the three businesses in the map pack, and pull the same fields for all of them plus the client. Category, review count and recency, photos, hours, services, products, posts, Q&A, booking link, attributes, description.
+
+Then turn it into three or four **gaps**, ranked. Not a table dump. "All three above you are in the Car Wash category and you are in Car Detailing Service" is a gap. "They are bigger than you" is not.
+
+The gap list is the spine of the whole deliverable. Do this before writing a single recommendation.
+
+---
+
+## Step 4. Reviews
 
 Read `references/reviews.md` for the request scripts, the response templates and the rules about what you must never do.
 
@@ -71,7 +85,7 @@ Then build the machine:
 
 ---
 
-## Step 4. The pages on the website
+## Step 5. The pages on the website
 
 Read `references/pages.md` for the page structures and the title formulas.
 
@@ -89,7 +103,7 @@ Say the address rule out loud: whatever is on the profile, the website and every
 
 ---
 
-## Step 5. Citations
+## Step 6. Citations
 
 Read `references/citations.md` for the list that is actually worth the afternoon.
 
@@ -99,7 +113,7 @@ Find the wrong ones before adding new ones. An old address on a directory is act
 
 ---
 
-## Step 6. Local schema
+## Step 7. Local schema
 
 Read `references/schema.md` for copy-paste-ready markup.
 
@@ -109,19 +123,52 @@ Note the same limitation the audit skill has: schema injected by JavaScript is i
 
 ---
 
-## Step 7. The plan
+## Step 8. Take the baseline before anything changes
 
-Deliver one page, in this order:
+Read `references/measure.md`.
 
-**Today, free, about an hour.** The profile fixes. Category first. This is almost always where the movement comes from and it costs nothing.
+Five measurements, written down with today's date: review count and average, date of the newest review, photo count and date of the newest photo, and where they appear for three to five real searches, **with where those searches were run from**. Screenshot the profile performance tab if they can get to it.
 
-**This week.** The review machine turned on, and the first ten asks sent.
+This takes ten minutes and it is the only reason anyone will know in a month whether any of this worked. Skip it and the whole engagement becomes an argument about feelings.
 
-**This month.** Service pages, area pages, citations cleaned up, schema added.
+Same file also covers the proximity point, which they need to hear early: there is no single ranking, it changes with where the searcher is standing. Say it plainly, in the document.
 
-**How to tell it's working.** What to look at, and when to expect anything. Be honest: profile changes can move within days, website changes take weeks to months. Someone promising rankings by Friday is lying to them.
+---
 
-Give them the one thing to do first if they only do one thing. It is nearly always the primary category.
+## Step 9. Score it
+
+Six areas, weighted by what actually moves the map. Show the breakdown so the number is not a black box.
+
+| Area | Weight |
+|---|---|
+| Profile completeness | 30 |
+| Category fit | 20 |
+| Reviews | 20 |
+| Local pages | 15 |
+| NAP and citations | 10 |
+| Schema and measurement | 5 |
+
+Score it honestly. Most businesses who ask for this land in the 30s and 40s. That is the point. It is a before photo, and a generous score makes the after photo meaningless.
+
+---
+
+## Step 10. The deliverable
+
+Read `references/report-format.md`, then build the page from `references/report-template.html`. Copy the template, fill every `{{TOKEN}}`, delete what you have nothing for. Search the finished file for `{{` before handing it over.
+
+One self-contained HTML file, no external anything, prints properly. Named `[business-name]-local-search-plan-[YYYY-MM-DD].html`.
+
+Order, which is not negotiable:
+
+1. The score, and **the one thing to do first**, on its own above everything. Nearly always the primary category.
+2. Where you are today: the five baseline measurements, dated.
+3. The competitors side by side, then the three or four gaps.
+4. The six scored areas.
+5. What you couldn't check.
+6. The ninety day plan: today (free, about an hour, the profile), this week (the review machine and the first ten asks), this month (service pages, area pages, citations, schema).
+7. How they will know it worked: the repeat measurement date, and the tagged profile link.
+
+Be honest about timing inside the document, not just in conversation. Profile changes can move within days. Website changes take weeks to months. Someone promising rankings by Friday is lying to them.
 
 ---
 
@@ -143,3 +190,9 @@ For technical SEO beyond local (hreflang, crawl budget, international, programma
 **No review gating, ever.** Explained above. Be firm about it.
 
 **Say what is slow.** Local SEO is not instant. Set the expectation honestly, at the start, so they do not give up in week three when it is actually working.
+
+**Compare, do not lecture.** The gap list against the three businesses actually in the map is worth more than every general best practice in these files. Someone can argue with advice. Nobody argues with "they are in this category and you are not."
+
+**Measure before you touch anything.** Ten minutes of baseline is what turns this from an opinion into a result you can show them in thirty days.
+
+**No ranking without a location.** Map results change with where the searcher is standing. Any position you report says where it was searched from, or it is not a fact.

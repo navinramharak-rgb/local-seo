@@ -66,3 +66,31 @@ If they answered question 3 with "we go to them" and the listing shows a street 
 For each field: what the listing currently shows, what it should show, and how long the fix takes. Group into "do today, free, one hour" versus everything else.
 
 Then the one line that matters: **the single change most likely to move the map ranking.** Nearly always the primary category.
+
+---
+
+## The fields almost nobody fills in
+
+Category is the biggest lever. These are the next ones, and they are all free, all fast, and mostly empty on the average listing. A profile with these filled beats a better-known competitor with a bare one more often than people expect.
+
+**Services.** Each service is its own entry with its own short description. Most listings have none. Every entry is a term Google can match against a search, and it is the cheapest reach available. List the money services first.
+
+**Products, with prices.** The products section takes up real estate on the panel and almost nobody uses it. A price, even a starting price, filters out the wrong enquiries and gives the right ones a reason to call.
+
+**The description.** 750 characters. Say what they do, where, and who for, in the first sentence, because that is all that shows before "more". Not a mission statement.
+
+**Attributes.** Wheelchair accessible, free parking, appointment required, women-owned, veteran-owned, LGBTQ+ friendly, on-site services. Some of these are their own filter in Google Maps, which means a business without them is not in that filtered list at all.
+
+**Q&A.** Anyone can ask a question on a listing, and anyone can answer. Unanswered questions sit there in public, sometimes for years, sometimes answered wrong by a stranger. The owner is allowed to post their own questions and answer them, and that is the right way to handle the five things customers always ask: parking, price range, whether they take walk-ins, what areas they cover, how fast they respond.
+
+**Booking and messaging links.** If they take bookings, the link goes on the profile. If they can answer a text within a business day, turn messaging on. If they cannot, leave it off, because a slow reply on a visible channel is worse than no channel.
+
+**Posts.** Free, visible on the panel, ignored by nearly everyone. A post every week or two, showing a real job with a real photo, keeps the listing looking alive. The ranking effect is small. The looks-open-and-active effect is not.
+
+**Hours, including holidays.** Wrong hours is the fastest way to a one-star review. Special hours for holidays are a separate field and it is nearly always blank.
+
+**Photos, and their recency.** Both matter. A listing whose newest photo is three years old reads as closed. Real photos of real work beat stock every time, and geotagging them does nothing despite what a lot of advice says.
+
+## Verify with a second pair of eyes
+
+Before reporting a listing field as missing, check the listing a second way: the search panel, Google Maps directly, and the business's own share link if they have one. Panels render differently across surfaces and something can look absent when it is simply not shown in that view.
