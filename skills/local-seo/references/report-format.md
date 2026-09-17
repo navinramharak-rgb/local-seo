@@ -15,6 +15,24 @@ The output of this skill is not a conversation. It is one file the owner can ope
 
 ---
 
+## The design is not yours to change
+
+The palette, the type, the spacing and the structure are already set in `report-template.html`. Use them.
+
+White background. Black text. One orange accent, `#FF4500`. That is it.
+
+Do not invent a dark theme, a different accent colour, a gradient, a card shape or a font. A report that looks different every time looks improvised, and an improvised-looking report does not get acted on. The tokens are at the top of the template:
+
+```
+--ink:#0D0D0D  --body:#3A3A3A  --soft:#505050  --faint:#909090
+--line:#E8E2D9  --bg:#FFFFFF  --panel:#F8F6F2
+--accent:#FF4500  --good:#0E7A4A  --warn:#B8860B  --bad:#CC3600
+```
+
+If you find yourself writing new CSS, stop. Fill the tokens, repeat the blocks, delete what you do not need.
+
+---
+
 ## Order
 
 1. **Masthead** — business, current primary category, city, score ring.

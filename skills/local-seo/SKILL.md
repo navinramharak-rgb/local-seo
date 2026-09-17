@@ -154,7 +154,9 @@ Score it honestly. Most businesses who ask for this land in the 30s and 40s. Tha
 
 ## Step 10. The deliverable
 
-Read `references/report-format.md`, then build the page from `references/report-template.html`. Copy the template, fill every `{{TOKEN}}`, delete what you have nothing for. Search the finished file for `{{` before handing it over.
+Read `references/report-format.md`, then build the page from `references/report-template.html`.
+
+**The template is the design. Do not restyle it.** White background, black text, one orange accent (`#FF4500`). No dark theme, no other accent colour, no new fonts. Copy the file, fill every `{{TOKEN}}`, repeat the blocks that repeat, delete what you have nothing for. If you are writing new CSS, you have gone wrong. Search the finished file for `{{` before handing it over.
 
 One self-contained HTML file, no external anything, prints properly. Named `[business-name]-local-search-plan-[YYYY-MM-DD].html`.
 
